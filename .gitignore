@@ -2,11 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/
-/bin/
-/obj/
+
 /SampleNetCore/obj
 /SampleNetCore/bin/Debug/net6.0-windows
 /SampleNetCore/.vs/SampleNetCore/FileContentIndex
 /SampleNetCore/.vs/SampleNetCore/v17/.suo
 /SampleNetCore/.vs/SampleNetCore/DesignTimeBuild/.dtbcache.v2
+/.vs/slnx.sqlite
+/.vs/TestRepository/v17/.wsuo
